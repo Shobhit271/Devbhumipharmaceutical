@@ -1,7 +1,7 @@
 /**
-* Template Name: HeroBiz
+* Template Name: Devbhumi
 * Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
+* Template URL: https://bootstrapmade.com/Devbhumi-bootstrap-business-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -212,7 +212,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .header {
-  /* padding: 15px 0; */
+  padding: 15px 0;
   transition: all 0.5s;
   z-index: 997;
 }
@@ -223,8 +223,8 @@ section {
 }
 
 .header .logo img {
-  max-height: 100px;
-  margin-right: -46px;
+  max-height: 50px;
+  margin-right: 15px;
 }
 
 .header .logo h1 {
